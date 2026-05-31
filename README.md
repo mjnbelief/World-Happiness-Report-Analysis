@@ -1,7 +1,7 @@
-# World Happiness Report Analysis
-### A Data Analysis of Global Wellbeing
+# 🌍 World Happiness Report Analysis
+### 📊 A Data Analysis of Global Wellbeing
 
-## Project Overview
+## 🧠 Project Overview
 
 This project explores the factors that influence happiness across countries using data from the World Happiness Report.
 
@@ -15,8 +15,8 @@ The analysis focuses on the relationship between happiness and several key indic
 - Perceptions of corruption
 
 ---
-
-## Objectives
+ 
+## 🎯 Objectives
 
 - Identify the factors most strongly associated with happiness.
 - Explore correlations between economic and social indicators.
@@ -25,7 +25,7 @@ The analysis focuses on the relationship between happiness and several key indic
 
 ---
 
-## Dataset
+## 📂 Dataset
 
 The dataset contains country-level happiness metrics collected across multiple years.
 
@@ -36,7 +36,7 @@ Source:
 
 ---
 
-## Analysis
+## 🔍 Analysis
 
 The project includes:
 
@@ -49,7 +49,7 @@ The project includes:
 
 ---
 
-## Visualizations
+## 📊 Visualizations
 
 Some of the visualizations created in this project include:
 
@@ -62,7 +62,7 @@ Some of the visualizations created in this project include:
 
 ---
 
-## Technologies Used
+## 🔧 Technologies Used
 
 - Python
 - Pandas
@@ -98,5 +98,3 @@ Some of the visualizations created in this project include:
 **Date**: 2026
 
 ---
-
-> ⚠️ Disclaimer: This app is meant for entertainment, humor, and social insight — not to stereotype or generalize communication styles.
